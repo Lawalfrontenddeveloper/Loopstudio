@@ -6,6 +6,8 @@ module.exports = {
       backgroundImage: {
         'asset-image': "url('/src/images/asset 36.jpeg')",
         'asset-image-1': "url('/src/images/asset 14.webp')",    
+        'asset-image-2': "url('/src/images/asset 15.webp')",    
+
       },
       }
     },
